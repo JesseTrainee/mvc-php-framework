@@ -1,4 +1,4 @@
 #init
   -  cd public;
-   - mysql xampp;
-    -php -S localhost:8080;
+  - mysql xampp;
+  -php -S localhost:8080;
